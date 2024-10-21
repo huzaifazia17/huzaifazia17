@@ -1,6 +1,6 @@
 <div align="center">
 <!--   <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> -->
-  <h1 align="center">Hello, I'm Huzaifa/h1>
+  <h1 align="center">Hello, I'm Huzaifa Zia </h1>
   <h4 align="center">A final year software engineering student at Ontario Tech with full-stack experience.</h4>
 </div>
 
