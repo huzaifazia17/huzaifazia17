@@ -33,7 +33,7 @@
 <div align="center">
   <h2>☎️ Contact Me</h2>
   <p align="center">
-    <a href="https://www.linkedin.com/in/huzaifa-zia/" target="blank">
+    <a href="https://www.linkedin.com/in/huzaifa-zia-86673b206/" target="blank">
       <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
            alt="LinkedIn" height="30"/>
     </a>
